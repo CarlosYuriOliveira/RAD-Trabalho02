@@ -162,5 +162,5 @@ def alterarValor(cursor, conexao):
 
 
 
-criar_conexao("postgres", "postgres", "Ryuri@@##23", "localhost", "5432")
+criar_conexao("******", "*******", "********", "********", "********")
 
