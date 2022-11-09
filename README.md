@@ -1,8 +1,9 @@
 # RAD-Trabalho01
-Trabalho de Banco de Dados em PYTHON
+Trabalho de Banco de Dados em PYTHON (Utlizando TKINTER)
 
-Autor: Carlos Yuri Rodrigues Oliveira;
+Autores: Carlos Yuri Rodrigues Oliveira, Luan Carlos Gonçalves do Nascimento, Francisco Eduardo Lira Silva Oliveira;
 
-Neste trabalho, faço uma conexão com o banco de dados 'Banco', do POSTGRESQL,
-é criado duas tabelas utilizando os arquivos nomes.txt e contas.txt,
-adicionandos os valores. Assim podendo fazer consultas e alterações nos dados de cada registro.
+Neste trabalho, é feito uma conexão com o banco de dados do POSTGRESQL,
+criado duas tabelas, utilizando os arquivos nomes.txt, contas.txt e bancos.txt para
+adicionar os valores. Assim podendo fazer consultas e alterações nos dados de cada registro atraves de janelas
+construidas utlizando a biblioteca tkinter.
