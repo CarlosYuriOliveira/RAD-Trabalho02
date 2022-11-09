@@ -1,0 +1,5 @@
+1 Nordeste Teresina Piaui 234 Lhamas
+2 Brasil São_Paulo São_Paulo 222 Cirus
+3 Dinheiro vazio Brasilia 56 Brasileira
+4 Brasil Teresina Piaui 33 Jarmanes
+5 PraVoce Manaus Amazonas 290 Rio_Mar
