@@ -1,4 +1,5 @@
-# RAD-Trabalho01
+# RAD (Desenvolvimento Rápido de Aplicações)-Trabalho02
+
 Trabalho de Banco de Dados em PYTHON (Utlizando TKINTER)
 
 Autores: Carlos Yuri Rodrigues Oliveira, Luan Carlos Gonçalves do Nascimento, Francisco Eduardo Lira Silva Oliveira;
